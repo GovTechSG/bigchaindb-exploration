@@ -7,9 +7,8 @@ https://docs.bigchaindb.com/projects/server/en/latest/appendices/run-with-docker
 ##Consensus algorithm
 Raft
 
-### Type
-* Public blockchain (public testnet: https://test.ipdb.io/api/v1/)
-* Private blockchain
+### Permission (could be private or public)
+https://blog.bigchaindb.com/towards-a-public-bigchaindb-654619d93fac
 
 ## Pros
 * Good for assets transfer
