@@ -4,7 +4,7 @@
 
 https://docs.bigchaindb.com/projects/server/en/latest/appendices/run-with-docker.html
 
-##Consensus algorithm
+## Consensus algorithm
 Raft
 
 ### Permission (could be private or public)
