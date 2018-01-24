@@ -1,4 +1,4 @@
-# Bigchaindb
+# Bigchaindb-Exploration
 
 ## Quick start on bigchaindb with docker
 
